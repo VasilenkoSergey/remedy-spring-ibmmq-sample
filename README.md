@@ -1,0 +1,1 @@
+# Sample BMC Remedy plugin using spring jms and ibm mq
